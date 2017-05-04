@@ -14,24 +14,24 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "www.twitter.com/nellarro"
+  link = "https://twitter.com/nellarro"
 
 [[params.social]]
-  medium = "Facebook"
-  icon = "facebook"
-  link = "#"
-
-[[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "phone"
+  icon = "phone"
+  link = "tel:555-555-555"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/nellarro"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "mailto:nellarro@gmail.com?subject=You%20Seem%20Like%20A%20Nifty%20Dev&body=Let's%20chat!"
+
+[[params.social]]
+  medium = "medium"
+  icon = "medium"
+  link = "https://github.com/nellarro"
